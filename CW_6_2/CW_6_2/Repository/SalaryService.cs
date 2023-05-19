@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CW_6_2.Repository
 {
-    internal class SalaryService
+    public class SalaryService
     {
     }
 }

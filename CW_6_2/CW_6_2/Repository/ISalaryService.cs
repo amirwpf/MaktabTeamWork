@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CW_6_2.NewFolder
 {
-    internal interface ISalaryService
+    public interface ISalaryService
     {
         decimal GetTotalSalaryById(int id);
         

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CW_6_2.Repository
 {
-    internal interface IEmployeeService
+    public interface IEmployeeService
     {
         List<EmployeeNameViewModel> GetEmployeeName();
         List<EmployeeNameViewModel> GetMenEmpName();

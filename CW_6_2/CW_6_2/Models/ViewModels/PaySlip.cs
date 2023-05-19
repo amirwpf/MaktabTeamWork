@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CW_6_2.Models.ViewModels
 {
-    internal class PaySlip
+    public class PaySlip
     {
         public int Id { get; set; }
         public string Name { get; set; }
