@@ -13,12 +13,14 @@ namespace CW_6_2.Repository
         List<PaySlip> pay = new List<PaySlip>();
         public decimal GetSumTotalTaxPaid()
         {
-            throw new NotImplementedException();
+            var sumTax = db.salarys.Select(c => c.Tax).Sum();
+            return sumTax;
         }
 
         public decimal GetTotalSalaryById(int id)
         {
-            throw new NotImplementedException();
+            var total= db.salarys.Where(c => c.EmployeeId == id).Select(x => x.Amount - x.Tax + x.OtherBenefit);
+            return total.Sum();
         }
 
         public List<PaySlip> PayslipByIdForOneMonth(int id, int year, int month)
