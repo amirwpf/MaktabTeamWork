@@ -11,6 +11,5 @@ namespace CW_6_2.Models.ViewModels
         public int Id { get; set; }
         public string LastName { get; set; }
         public string FirstName { get; set; }
-
     }
 }

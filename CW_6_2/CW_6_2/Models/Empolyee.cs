@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CW_6_2.Models
 {
-    public class Empolyee
+    public class Employee
     {
         public int Id { get; set; }
         public string FName { get; set; }
