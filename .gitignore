@@ -363,6 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 *.suo
+suo
 *.user
 _ReSharper.*
 bin
