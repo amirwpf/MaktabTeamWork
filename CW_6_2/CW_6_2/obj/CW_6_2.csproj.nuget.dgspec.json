@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
+    "E:\\Project\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
   },
   "projects": {
-    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
+    "E:\\Project\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "projectUniqueName": "E:\\Project\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
         "projectName": "CW_6_2",
-        "projectPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
+        "projectPath": "E:\\Project\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "packagesPath": "C:\\Users\\FarySoly\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FarySoly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
