@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW6\\CW_6_2\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
+    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
   },
   "projects": {
-    "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW6\\CW_6_2\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
+    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW6\\CW_6_2\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "projectUniqueName": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
         "projectName": "CW_6_2",
-        "projectPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW6\\CW_6_2\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
-        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
-        "outputPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW6\\CW_6_2\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
+        "projectPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -50,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
