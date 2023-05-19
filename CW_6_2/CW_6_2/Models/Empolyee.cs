@@ -15,7 +15,7 @@ namespace CW_6_2.Models
         public int Mobile { get; set; }
         public int Gender { get; set; }
         public string Email { get; set; }
-        public string EmployeeAdress1 { get; set; }
+        public string EmployeeAdress4 { get; set; }
         
     }
 }
