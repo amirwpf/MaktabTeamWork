@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
+    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {}
   },
   "projects": {
-    "E:\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
+    "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "projectUniqueName": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
         "projectName": "CW_6_2",
-        "projectPath": "E:\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
-        "packagesPath": "C:\\Users\\Mobtakeran\\.nuget\\packages\\",
-        "outputPath": "E:\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
+        "projectPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\CW_6_2.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\c project\\MaktabTeamWork\\MaktabTeamWork\\MaktabTeamWork\\CW_6_2\\CW_6_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mobtakeran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
